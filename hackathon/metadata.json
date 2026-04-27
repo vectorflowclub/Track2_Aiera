@@ -1,0 +1,6 @@
+{
+  "name": "TerraScan AI",
+  "description": "Offroad Semantic Scene Segmentation system for terrain understanding and obstacle detection in desert environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
