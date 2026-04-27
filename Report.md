@@ -3,7 +3,7 @@
 ### Fine-grained scene understanding for autonomous off-road navigation
 
 **Competition:** Duality AI Offroad Semantic Segmentation — BigRock Hackathon  
-**Team:** [TEAM_NAME]  
+**Team:** Aiera  
 **Task:** 11-class pixel-wise semantic segmentation of synthetic desert terrain images  
 **Submission Scope:** Segmentation head checkpoint, prediction masks, and technical report  
 **Date:** April 27, 2026

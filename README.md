@@ -1,5 +1,5 @@
 # Offroad Terrain Semantic Segmentation
-### Team: [YOUR TEAM NAME]
+### Team: Aiera
 ### BigRock Exchange Hackathon — Duality AI Segmentation Track
 
 ---
@@ -154,5 +154,6 @@ Opens a window showing color-coded segmentation overlaid on test images.
 ---
 
 ## Team Members
-- [NAME 1] — AI Engineering
-- [NAME 2] — Documentation & Presentation
+- Nitin Raj g
+- K S Harshitha
+- P V Sai Shreyas
